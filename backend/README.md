@@ -1,13 +1,6 @@
-# Backend – A2 Developers Landing Page
+# A2 Developer Project
 
-This is the backend for the A2 Developers landing page. It handles demo request submissions and stores data in MongoDB Atlas.
-
-## 🚀 Tech Stack
-
-- Node.js
-- Express.js
-- MongoDB Atlas
-- Mongoose
+This is a full-stack landing page built with React, Node.js, Express, and MongoDB Atlas.
 
 ## 📦 Installation
 
